@@ -1,4 +1,4 @@
-#v88. Merge Sorted Array
+# 88. Merge Sorted Array
 # https://leetcode.com/problems/merge-sorted-array/
 
 # Input: nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3
@@ -21,3 +21,4 @@ class Solution(object):
 s=Solution()
 print(s.merge([1,2,3,0,0,0],3,[2,5,6],3))
 print(s.merge([1],1,[],0))
+
